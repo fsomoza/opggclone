@@ -1,0 +1,5 @@
+# Aqui se le dice a eslint que archivos no debe formatear
+#solo hay que excluir dist porque eslint no es un linter para
+# todo tipo de archivos, afecta solo al tipo de extensiones que
+#indiquemos en el archivo de config "packagejson" por eso no hay que excluir el package-lock
+dist

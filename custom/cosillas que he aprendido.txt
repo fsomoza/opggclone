@@ -1,0 +1,9 @@
+cosillas que he aprendido:
+
+service apache2 status/start/stop ver estado del servicio del tomcat arrancar/parar
+
+sudo chmod -R 777 Example  cambiar permisos para todos los archivos de la carpeta Example, (read,write,execute) para todos los usuarios
+ls -l ver los permisos de una carpeta
+ls -l
+which apache2/git/npm  buscaria si existen ejecutables de ese tipo en el sistema
+

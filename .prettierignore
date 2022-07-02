@@ -1,0 +1,3 @@
+# Aqui se le dice a prettier que archivos no debe formatear, ya ignora el node-modules por defecto
+dist
+package-lock.json
