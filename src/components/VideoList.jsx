@@ -1,4 +1,3 @@
-
 /* const VideoList = ({title, children}) =>{ 
 
     const videos = children || <p>No hay videos</p>

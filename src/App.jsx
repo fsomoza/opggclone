@@ -1,4 +1,3 @@
-import { Fragment } from 'react';
 import Titles from './components/Titles';
 // los componentes de react deben de devolver una unica etiqueta
 const App = () => (
