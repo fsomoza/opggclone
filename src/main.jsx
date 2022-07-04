@@ -1,7 +1,9 @@
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
+import App from './App';
 import './index.css';
 
-const app = <h1>Mi primera app de React</h1>;
-const container = document.getElementById('root');
 
-ReactDOM.render(app, container);
+
+const container = document.getElementById('root');
+const root = createRoot(container);
+root.render(<App tab="home" />);

@@ -1,7 +1,12 @@
+INSTALACION DE PROYECTO
+npm i
+
 INSTALACION DE ESLINT
 npm i -D eslint
 npx eslint --init
 descargar extension de eslint
+
+DOCU PRETTIER: https://prettier.io/docs/en/options.html
 
 INSTALACION DE PRETTIER
 npm i -D prettier
